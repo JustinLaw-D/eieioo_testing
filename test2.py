@@ -1,1 +1,1 @@
-print("Hello World")
+print("GitHub will save me from the coding monsters")
